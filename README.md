@@ -110,3 +110,6 @@ plaintext
 ### certification list
 ### day3 
 To be continue
+### day4
+Finish Session One: the Introduction
+![image](https://github.com/user-attachments/assets/9b5d63cc-54b9-47ba-bf67-f4d4a7a441c4)
